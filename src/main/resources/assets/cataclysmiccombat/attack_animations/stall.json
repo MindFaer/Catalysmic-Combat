@@ -4,21 +4,17 @@
   "description": "I hope this works",
   "emote":{
     "isLoop": "false",
-    "returnTick": 1,
-    "beginTick":1,
-    "endTick":2,
-    "stopTick":3,
+    "returnTick": 0,
+    "beginTick":0,
+    "endTick":0,
+    "stopTick":0,
     "degrees":false,
     "moves":[
 
       {
-        "tick":1,
-        "easing": "EASEINOUTQUAD",
-        "turn": 0,
-        "head":{
-          "y":-0.0
+        "tick":0,
+        "easing": "EASEINOUTQUAD"
         }
-      }
     ]
   }
 }
