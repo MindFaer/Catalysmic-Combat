@@ -1,0 +1,12 @@
+{
+  "attributes": {
+    "attack_range": 0.1,
+    "attacks": [
+      {
+        "animation": "cataclysmiccombat:stall",
+        "hitbox": "HORIZONTAL_PLANE",
+        "damage_multiplier": 0.0
+      }
+    ]
+  }
+}
